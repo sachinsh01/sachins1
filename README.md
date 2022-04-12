@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img src="https://user-images.githubusercontent.com/89263668/162906838-928bb34f-6235-43c4-9973-eb212967f5de.gif">
+<img src="https://user-images.githubusercontent.com/89263668/162907376-33327a7a-6912-4896-b187-c7785b38ea58.gif">
+
 
 
 <p align="center">
