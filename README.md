@@ -2,10 +2,13 @@
   Welcome to Sachin Sharma's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<h3 align="left">About me </h3>
+
+
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello%2C+world!+I'm+Sachin+Sharma.;I'm+a+Front-End+web+Developer;I'm+from+Gwalior%2C+Madhya+Pradesh)](https://git.io/typing-svg"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello%2C+world!+I'm+Sachin+Sharma.;I'm+a+Front-End+Web+Developer.;I'm+from+Gwalior%2C+Madhya+Pradesh."></img>
 </p>
+
+<h3 align="left">About me </h3>
 
 - :office: &nbsp;I'm studying Computer Science from **VIT Bhopal**
 - :speech_balloon: &nbsp;I like to talk about **Android** and **Web Development**
