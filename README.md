@@ -1,20 +1,16 @@
-<!--![Untitled (Facebook Cover)](https://user-images.githubusercontent.com/89263668/162363415-a377d138-0f30-452b-9045-4e84e71bd1fe.gif)-->
-![Untitled (Facebook Cover)](https://user-images.githubusercontent.com/89263668/162363984-cfb57558-6568-4fe4-acf9-495562b84f3f.gif)
+<h1 align="left" id="sachinsharma-title">:wave: Hello there! I'm Sachin Sharma</h1>
+<h3 align="left">About me </h3>
+
+<a href="#sachinsharma-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinsh01&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Sachin Sharma" align="right" />
+</a>
+
+- :office: &nbsp;I'm studying Computer Science from **VIT Bhopal**
+- :speech_balloon: &nbsp;I like to talk about **Android** and **Web Development**
+- :books: I’m currently learning **JavaScript** while also building projects
+- :mailbox: &nbsp;Ask me about anything, I would be happy to **help**
+- :computer: &nbsp;Connect with me on <a href = "https://www.linkedin.com/in/sachinsh01/"> **LinkedIn** </a>
 
 
-<!--![Untitled (Facebook Cover)](https://user-images.githubusercontent.com/89263668/162245719-b8ade161-9044-43a4-b021-c08619877c77.png)-->
 
-<!--
-**sachins1/sachins1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![snake gif](https://github.com/sachinsh01/sachinsh01/blob/output/github-contribution-grid-snake.gif)
