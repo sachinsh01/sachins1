@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+<img src="https://user-images.githubusercontent.com/89263668/162894221-2f0ef098-baed-4ebb-be4d-1163d1c6dba6.gif">
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello%2C+world!+I'm+Sachin+Sharma.;I'm+a+Front-End+Web+Developer.;I'm+from+Gwalior%2C+Madhya+Pradesh."></img>
