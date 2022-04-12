@@ -4,7 +4,7 @@
 </h1>
 <h3 align="left">About me </h3>
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello%2C+world!+I'm+Sachin+Sharma.;I'm+a+Front-End+Developer;I'm+from+Gwalior%2C+Madhya+Pradesh)](https://git.io/typing-svg"></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello%2C+world!+I'm+Sachin+Sharma.;I'm+a+Front-End+web+Developer;I'm+from+Gwalior%2C+Madhya+Pradesh)](https://git.io/typing-svg"></a>
 </p>
 
 - :office: &nbsp;I'm studying Computer Science from **VIT Bhopal**
