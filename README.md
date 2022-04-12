@@ -25,7 +25,7 @@
 <br>
 <p align = "center">
 <a href="#sachinsharma-title">
-<img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachinsh01&hide=jupyter%20notebook&layout=compact&theme=algolia"/> 
+<img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachinsh01&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=algolia"/> 
 <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=sachinsh01&show_icons=true&theme=react&count_private=true&include_all_commits=true" align="right" />
 </a>
 </p>
