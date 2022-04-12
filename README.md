@@ -1,9 +1,9 @@
-<h1 align="left" id="sachinsharma-title">:wave: Hello there! I'm Sachin Sharma</h1>
+<h1 align="center">
+  Welcome to Sachin Sharma's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 <h3 align="left">About me </h3>
 
-<a href="#sachinsharma-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinsh01&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Sachin Sharma" align="right" />
-</a>
 
 - :office: &nbsp;I'm studying Computer Science from **VIT Bhopal**
 - :speech_balloon: &nbsp;I like to talk about **Android** and **Web Development**
@@ -12,5 +12,11 @@
 - :computer: &nbsp;Connect with me on <a href = "https://www.linkedin.com/in/sachinsh01/"> **LinkedIn** </a>
 
 
-
 ![snake svg](https://github.com/sachinsh01/sachinsh01/blob/output/github-contribution-grid-snake.svg)
+
+<p align = "center">
+<a href="#sachinsharma-title">
+<img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachinsh01&layout=compact&theme=algolia"/> 
+<img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=sachinsh01&show_icons=true&theme=react&count_private=true&include_all_commits=true" align="right" />
+</a>
+  </p>
