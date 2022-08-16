@@ -15,7 +15,7 @@
 
 - :office: &nbsp;I'm studying Computer Science from **VIT Bhopal**
 - :speech_balloon: &nbsp;I like to talk about **Android** and **Web Development**
-- :books: I’m currently learning **JavaScript** while also building projects
+- :books: I’m currently learning **ReactJS** while also building projects
 - :mailbox: &nbsp;Ask me about anything, I would be happy to **help**
 - :computer: &nbsp;Connect with me on <a href = "https://www.linkedin.com/in/sachinsh01/"> **LinkedIn** </a>
 
