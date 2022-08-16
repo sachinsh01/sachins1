@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello%2C+world!+I'm+Sachin+Sharma.;I'm+a+Front-End+Web+Developer.;I'm+from+Gwalior%2C+Madhya+Pradesh."></img>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello%2C+world!+I'm+Sachin+Sharma.;I'm+a+Full-Stack+Web+Developer.;I'm+from+Gwalior%2C+Madhya+Pradesh."></img>
 </p>
 
 <h3 align="left">About me </h3>
