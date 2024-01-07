@@ -13,9 +13,9 @@
 
 <h3 align="left">About me </h3>
 
-- :office: &nbsp;I'm studying Computer Science from **VIT Bhopal**
+- :office: &nbsp;I've completed my B. Tech (CSE) from **VIT University**
 - :speech_balloon: &nbsp;I like to talk about **Android** and **Web Development**
-- :books: I’m currently learning **ReactJS** while also building projects
+- :books: I’m currently working as a Software Engineer
 - :mailbox: &nbsp;Ask me about anything, I would be happy to **help**
 - :computer: &nbsp;Connect with me on <a href = "https://www.linkedin.com/in/sachinsh01/"> **LinkedIn** </a>
 
